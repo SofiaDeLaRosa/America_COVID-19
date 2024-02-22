@@ -1,1 +1,1 @@
-# LATAM_Covid-19
+# LATAM_COVID-19
