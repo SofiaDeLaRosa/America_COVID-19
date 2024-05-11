@@ -24,25 +24,29 @@
 ## INDICE
 RESUMEN <br>
 INDICE <br>
-1. [Introducción](#introducción)
-2. [Materiales y Métodos](#materiales_métodos)
-   2.1. [Bases de Datos](#basesdedatos)
-   2.2. [Variables](#variables)
-4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones)
-6. [Bibliografía](#bibliografía)
+1. [1. Introducción](#introducción)
+2. [2. Materiales y Métodos](#materiales_métodos)
+   2.1. [2.1. Bases de Datos](#basesdedatos)
+   2.2. [2.2. Variables](#variables)
+3. [3. Resultados](#resultados)
+4. [4. Conclusiones](#conclusiones)
+5. [5. Bibliografía](#bibliografía)
 
-## Introducción
+## 1. Introducción
 
-## Materiales y Métodos
+## 2. Materiales y Métodos
 
 | Nombre    | Edad | Ciudad    |
 |-----------|------|-----------|
 | Juan      | 25   | Madrid    |
 | María     | 30   | Barcelona |
 
-## Resultados
+### 2.1. Bases de Datos
 
-## Conclusiones
+### 2.2. Variables
 
-## Bibliografía
+## 3. Resultados
+
+## 4. Conclusiones
+
+## 5. Bibliografía
