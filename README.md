@@ -20,8 +20,8 @@
 ## RESUMEN
 
 ## INDICE
-<p> RESUMEN </p>
-<p> INDICE </p>
+RESUMEN <br>
+INDICE <br>
 1. [Introducción](#introducción)
 2. [Materiales y Métodos](#materiales_métodos)
 3. [Resultados](#resultados)
