@@ -48,6 +48,11 @@ INDICE <br>
 | 8 | Canadá | | https://health-infobase.canada.ca/covid-19/ https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc | |  
 | 9 | Chile | Ministerio de Ciencia | https://observa.minciencia.gob.cl/datos-abiertos/datos-del-repositorio-covid-19 | Última actualización 30 de agosto del 2023 |
 | 10 | Colombia | Instituto Nacional de Salud | https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx | |
+| 11 | Costa Rica | Ministerio de Salud | https://www.ministeriodesalud.go.cr/index.php/vigilancia-de-la-salud/41-lineamientos-coronavirus/527-situacion-nacional-covid-19 | Información no disponible en formato descargable |
+| 12 | Cuba | Ministerio de Salud | https://salud.msp.gob.cu/category/covid-19/ | Información no disponible en formato descargable |
+| 13 | Dominica | Ministry of Health | https://covid19.dominica.gov.dm/ | Información no disponible en formato descargable |
+| 14 | Ecuador | Datos Abiertos del Ministerio de Salud Pública | https://www.salud.gob.ec/datos-abiertos/ | Información no disponible en formato descargable |
+| 15 | El Salvador | | * https://tableros.mspas.gob.gt/covid/ * https://elsalvador.un.org/sites/default/files/2020-05/El Salvador - COVID-19 - Informe de situación No. 9 - Al 26 de mayo 2020.pdf * Puede leer también: OMS reconfirma que Gobierno de El Salvador manipuló datos de muertes covid-19 | Información no disponible en formato descargable |
 
 ### 2.1. Bases de Datos
 
