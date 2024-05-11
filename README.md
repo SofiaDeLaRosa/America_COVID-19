@@ -1,7 +1,7 @@
 <h1 align="center"> LATAM COVID-19 </h1> <br>
 
 <p align="center">
-    <img src="(https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/escudos.png)" alt="escudos">
+    <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/escudos.png" alt="escudos">
 </p>
 
 <h3 align="center"> Universidad Nacional Autónoma de México </h3> 
