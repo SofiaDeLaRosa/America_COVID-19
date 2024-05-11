@@ -1,6 +1,6 @@
 <h1 align="center"> LATAM COVID-19 </h1> <br>
 
-  ![alt text]((https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/escudos.png) 
+  ![alt text](https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/escudos.png) 
 
 <h3 align="center"> Universidad Nacional Autónoma de México </h3> 
 <h3 align="center">Escuela Nacional de Estudios Superiores Unidad Morelia </h3> 
