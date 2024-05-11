@@ -24,22 +24,26 @@
 ## INDICE
 RESUMEN <br>
 INDICE <br>
-1. [1. Introducción](#introducción)
-2. [2. Materiales y Métodos](#materiales_métodos)
-   2.1. [2.1. Bases de Datos](#basesdedatos)
-   2.2. [2.2. Variables](#variables)
-3. [3. Resultados](#resultados)
-4. [4. Conclusiones](#conclusiones)
-5. [5. Bibliografía](#bibliografía)
+[1. Introducción](#introducción)
+[2. Materiales y Métodos](#materiales_métodos)
+   [2.1. Bases de Datos](#basesdedatos)
+   [2.2. Variables](#variables)
+[3. Resultados](#resultados)
+[4. Conclusiones](#conclusiones)
+[5. Bibliografía](#bibliografía)
 
 ## 1. Introducción
 
 ## 2. Materiales y Métodos
 
-| Nombre    | Edad | Ciudad    |
-|-----------|------|-----------|
-| Juan      | 25   | Madrid    |
-| María     | 30   | Barcelona |
+| # | Edad | Fuente | Link Oficial | Comentario |
+|---|------|-----------|-----------|-----------|
+| 2 | Antigua y Barbuda | The Statistics Division in the Ministry of Finance and Corporate Governance | https://statistics.gov.ag/covid-19-dashboard/ | Datos no disponibles |
+| 1 | Argentina |    | | |
+| 2 | Brasil |  | | |
+| 3 | Colombia |  | | |
+| 4 | México | | | |
+| 5 | Perú |  | | |
 
 ### 2.1. Bases de Datos
 
