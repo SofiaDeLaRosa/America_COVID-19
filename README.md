@@ -56,9 +56,7 @@ INDICE <br>
 | 16 | Estados Unidos | Centers for Disease Control and Prevention | https://www.cdc.gov/coronavirus/2019-ncov/covid-19-data-and-surveillance.html | |
 | 17 | Granada | Ministry of Health | NA | No website for MoH | 
 | 18 | Guatemala | Ministerio de Salud y Asistencia Social | https://tableros.mspas.gob.gt/covid/ https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/es/countries-and-territories/guatemala/ https://github.com/ncovgt2020/ncovgt2020 | Información no disponible en formato descargable | 
-| 19 | Guayana Francesa | | | | Información no disponible | 
-| 20 | Guyana | Ministry of Health | https://www.health.gov.gy/ | Información no disponible en formato descargable | 
-| 21 | Haití | | | | Información no disponible |
+
 
 
 
