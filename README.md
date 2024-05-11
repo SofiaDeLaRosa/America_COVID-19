@@ -17,9 +17,9 @@
 
 <h4 align="center"> Profesor: Dr. Arturo López Pineda </h4> 
 
-#### RESUMEN
+## RESUMEN
 
-#### INDICE
+## INDICE
 [RESUMEN](resumen)
 [INDICE](Indice)
 1. [Introducción](#introducción)
@@ -28,12 +28,12 @@
 4. [Conclusiones](#conclusiones)
 5. [Bibliografía](#bibliografía)
 
-#### Introducción
+## Introducción
 
-#### Materiales y Métodos
+## Materiales y Métodos
 
-#### Resultados
+## Resultados
 
-#### Conclusiones
+## Conclusiones
 
-#### Bibliografía
+## Bibliografía
