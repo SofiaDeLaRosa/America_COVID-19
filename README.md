@@ -52,7 +52,7 @@ INDICE <br>
 | 12 | Cuba | Ministerio de Salud | https://salud.msp.gob.cu/category/covid-19/ | Información no disponible en formato descargable |
 | 13 | Dominica | Ministry of Health | https://covid19.dominica.gov.dm/ | Información no disponible en formato descargable |
 | 14 | Ecuador | Datos Abiertos del Ministerio de Salud Pública | https://www.salud.gob.ec/datos-abiertos/ | Información no disponible en formato descargable |
-| 15 | El Salvador | | - https://tableros.mspas.gob.gt/covid/ - https://elsalvador.un.org/sites/default/files/2020-05/El Salvador - COVID-19 - Informe de situación No. 9 - Al 26 de mayo 2020.pdf - Puede leer también: OMS reconfirma que Gobierno de El Salvador manipuló datos de muertes covid-19 | Información no disponible en formato descargable |
+| 15 | El Salvador | | https://tableros.mspas.gob.gt/covid/ https://elsalvador.un.org/sites/default/files/2020-05/El Salvador - COVID-19 - Informe de situación No. 9 - Al 26 de mayo 2020.pdf Puede leer también: OMS reconfirma que Gobierno de El Salvador manipuló datos de muertes covid-19 | Información no disponible en formato descargable |
 
 ### 2.1. Bases de Datos
 
