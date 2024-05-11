@@ -36,6 +36,8 @@ INDICE <br>
 
 ## 2. Materiales y Métodos
 
+### 2.1. Bases de Datos
+
 | # | País | Fuente | Link Oficial | Comentario |
 |---|------|------------|------------|------------|
 | 1 | Antigua y Barbuda | The Statistics Division in the Ministry of Finance and Corporate Governance | https://statistics.gov.ag/covid-19-dashboard/ | Datos no disponibles |
@@ -56,21 +58,25 @@ INDICE <br>
 | 16 | Estados Unidos | Centers for Disease Control and Prevention | https://www.cdc.gov/coronavirus/2019-ncov/covid-19-data-and-surveillance.html | |
 | 17 | Granada | Ministry of Health | NA | No website for MoH | 
 | 18 | Guatemala | Ministerio de Salud y Asistencia Social | https://tableros.mspas.gob.gt/covid/ https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/es/countries-and-territories/guatemala/ https://github.com/ncovgt2020/ncovgt2020 | Información no disponible en formato descargable | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 2.1. Bases de Datos
-
+| 19 | Guayana Francesa | | | Información no disponible | 
+| 20 | Guyana | Ministry of Health | https://www.health.gov.gy/ | Información no disponible en formato descargable | 
+| 21 | Haití | | | Información no disponible |
+| 22 | Honduras | | | Información no disponible |
+| 23 | Jamaica | Ministry of Health | https://www.moh.gov.jm/updates/coronavirus/ | Información no disponible en formato descargable |
+| 24 | México | Dirección General de Epidemiología | Secretaría de Salud | https://www.gob.mx/salud/documentos/datos-abiertos-152127 | | 
+| 25 | Nicaragua | | | Información no disponible |
+| 26 | Panamá | Ministerio de Salud | https://www.minsa.gob.pa/destacado/coronavirus-covid-19 | Información no disponible en formato descargable |
+| 27 | Paraguay | Ministerio de Salud Publica de Paraguay | https://www.mspbs.gov.py/institucion.html https://dgvs.mspbs.gov.py/mapa-de-riesgo-covid-19/ https://www.mspbs.gov.py/reportes-covid19.html | | 
+| 28 | Perú | Plataforma Nacional de Datos Abiertos | https://www.datosabiertos.gob.pe/group/datos-abiertos-de-covid-19 | | 
+| 29 | Puerto Rico | Centers for Disease Control and Prevention | https://data.cdc.gov/browse?tags=puerto+rico | 
+| 30 | República Dominicana | Ministerio de Salud | https://coronavirusrd.gob.do/ | Información no disponible en formato descargable |
+| 31 | San Cristóbal y Nieves | | | Información no disponible |
+| 32 | San Vicente y las Granadinas | Ministerio de Salud | https://health.gov.vc/health/index.php/c?start=732 | Información no disponible en formato descargable |
+| 33 | Santa Lucía | Ministerio de Salud | https://www.covid19response.lc/ | Información no disponible en formato descargable |
+| 34 | Surinam | Ministerio de Salud | https://gov.sr/covid-19-update-suriname/ | Información no disponible |
+| 35 | Trinidad y Tobago | Ministerio de Salud | https://health.gov.tt/covid-19/covid-19-news-and-updates/update-trinidad-and-tobago |Información no disponible en formato descargable |
+| 36 | Uruguay | | https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-epidemiologico-covid-19-actualizado-18-enero-2021 https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/semana-epidemiologica-17-del-240422-300422-casos-covid19-0 | Datos no individuales |
+| 37 | Venezuela | | https://mppre.gob.ve/coronavirus/ | Información no disponible en formato descargable |
 
 ### 2.2. Variables
 
