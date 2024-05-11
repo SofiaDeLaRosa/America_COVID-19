@@ -17,6 +17,8 @@
 
 <h4 align="center"> Profesor: Dr. Arturo López Pineda </h4> 
 
+<h4 align="center"> Fecha:23 de Mayo del 2024 </h4> 
+
 ## RESUMEN
 
 ## INDICE
@@ -24,13 +26,20 @@ RESUMEN <br>
 INDICE <br>
 1. [Introducción](#introducción)
 2. [Materiales y Métodos](#materiales_métodos)
-3. [Resultados](#resultados)
-4. [Conclusiones](#conclusiones)
-5. [Bibliografía](#bibliografía)
+   2.1. [Bases de Datos](#basesdedatos)
+   2.2. [Variables](#variables)
+4. [Resultados](#resultados)
+5. [Conclusiones](#conclusiones)
+6. [Bibliografía](#bibliografía)
 
 ## Introducción
 
 ## Materiales y Métodos
+
+| Nombre    | Edad | Ciudad    |
+|-----------|------|-----------|
+| Juan      | 25   | Madrid    |
+| María     | 30   | Barcelona |
 
 ## Resultados
 
