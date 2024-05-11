@@ -39,7 +39,7 @@ INDICE <br>
 ### 2.1. Bases de Datos
 
 | # | País | Fuente | Link Oficial | Comentario |
-|---|------|------------|------------|------------|
+|--|------|------------|------------|------------|
 | 1 | Antigua y Barbuda | The Statistics Division in the Ministry of Finance and Corporate Governance | https://statistics.gov.ag/covid-19-dashboard/ | Datos no disponibles |
 | 2 | Argentina | Datos Abiertos del Ministerio de Salud de Argentina | http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina | |
 | 3 | Bahamas | Ministry of Health | https://healthytogether.gov.bs/combatting-covid-19/covid-19-data/ | Datos no disponibles |
@@ -63,7 +63,7 @@ INDICE <br>
 | 21 | Haití | | | Información no disponible |
 | 22 | Honduras | | | Información no disponible |
 | 23 | Jamaica | Ministry of Health | https://www.moh.gov.jm/updates/coronavirus/ | Información no disponible en formato descargable |
-| 24 | México | Dirección General de Epidemiología | Secretaría de Salud | https://www.gob.mx/salud/documentos/datos-abiertos-152127 | | 
+| 24 | México | Dirección General de Epidemiología Secretaría de Salud | https://www.gob.mx/salud/documentos/datos-abiertos-152127 | | 
 | 25 | Nicaragua | | | Información no disponible |
 | 26 | Panamá | Ministerio de Salud | https://www.minsa.gob.pa/destacado/coronavirus-covid-19 | Información no disponible en formato descargable |
 | 27 | Paraguay | Ministerio de Salud Publica de Paraguay | https://www.mspbs.gov.py/institucion.html https://dgvs.mspbs.gov.py/mapa-de-riesgo-covid-19/ https://www.mspbs.gov.py/reportes-covid19.html | | 
@@ -79,6 +79,9 @@ INDICE <br>
 | 37 | Venezuela | | https://mppre.gob.ve/coronavirus/ | Información no disponible en formato descargable |
 
 ### 2.2. Variables
+
+| País | Variables | N | Hombres | Mujeres |
+|---|------|------------|------------|------------|
 
 ## 3. Resultados
 
