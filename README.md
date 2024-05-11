@@ -52,9 +52,27 @@ INDICE <br>
 | 12 | Cuba | Ministerio de Salud | https://salud.msp.gob.cu/category/covid-19/ | Información no disponible en formato descargable |
 | 13 | Dominica | Ministry of Health | https://covid19.dominica.gov.dm/ | Información no disponible en formato descargable |
 | 14 | Ecuador | Datos Abiertos del Ministerio de Salud Pública | https://www.salud.gob.ec/datos-abiertos/ | Información no disponible en formato descargable |
-| 15 | El Salvador | | https://tableros.mspas.gob.gt/covid/ https://elsalvador.un.org/sites/default/files/2020-05/ElSalvador-COVID-19-InformedesituaciónNo.9-Al26demayo2020.pdf Puede leer también: OMSreconfirmaqueGobiernodeElSalvadormanipulódatosdemuertescovid-19 | Información no disponible en formato descargable |
+| 15 | El Salvador | | https://tableros.mspas.gob.gt/covid/ https://elsalvador.un.org/sites/default/files/2020-05/ElSalvador-COVID-19-InformedesituaciónNo.9-Al26demayo2020.pdf Puede leer también: https://www.google.com/url?q=https://www.elsalvador.com/noticias/nacional/oms-coronavirus-fallecidos-por-covid-19/953482/2022/&sa=D&source=docs&ust=1715455787991936&usg=AOvVaw37Gzm5R3fyKgA13kwq2HBs | Información no disponible en formato descargable |
+| 16 | Estados Unidos | Centers for Disease Control and Prevention | https://www.cdc.gov/coronavirus/2019-ncov/covid-19-data-and-surveillance.html | |
+| 17 | Granada | Ministry of Health | NA | No website for MoH | 
+| 18 | Guatemala | Ministerio de Salud y Asistencia Social | https://tableros.mspas.gob.gt/covid/ https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/es/countries-and-territories/guatemala/ https://github.com/ncovgt2020/ncovgt2020 | Información no disponible en formato descargable | 
+| 19 | Guayana Francesa | | | Información no disponible | 
+| 20 | Guyana | Ministry of Health | https://www.health.gov.gy/ | Información no disponible en formato descargable | 
+| 21 | Haití | | | Información no disponible |
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2.1. Bases de Datos
+
 
 ### 2.2. Variables
 
