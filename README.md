@@ -84,15 +84,7 @@ INDICE <br>
 |------|---------------|----------|------|------|
 | Argentina | | 29,971,993 | | | 
 | Brasil | | | | |
-| Colombia | 'fecha reporte web', 'ID de caso', 'Fecha de notificación',
-       'Código DIVIPOLA departamento', 'Nombre departamento',
-       'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad',
-       'Unidad de medida de edad', 'Sexo', 'Tipo de contagio',
-       'Ubicación del caso', 'Estado', 'Código ISO del país',
-       'Nombre del país', 'Recuperado', 'Fecha de inicio de síntomas',
-       'Fecha de muerte', 'Fecha de diagnóstico', 'Fecha de recuperación',
-       'Tipo de recuperación', 'Pertenencia étnica',
-       'Nombre del grupo étnico'| 6,390,972 (2020-2021) | | | 
+| Colombia | 'fecha reporte web', 'ID de caso', 'Fecha de notificación', 'Código DIVIPOLA departamento', 'Nombre departamento', 'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Unidad de medida de edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', 'Código ISO del país', 'Nombre del país', 'Recuperado', 'Fecha de inicio de síntomas', 'Fecha de muerte', 'Fecha de diagnóstico', 'Fecha de recuperación', 'Tipo de recuperación', 'Pertenencia étnica', 'Nombre del grupo étnico'| 6,390,972 (2020-2021) | | | 
 | México | 'FECHA_ACTUALIZACION', 'ID_REGISTRO', 'ORIGEN', 'SECTOR', 'ENTIDAD_UM', 'SEXO', 'ENTIDAD_NAC', 'ENTIDAD_RES', 'MUNICIPIO_RES', 'TIPO_PACIENTE', 'FECHA_INGRESO', 'FECHA_SINTOMAS', 'FECHA_DEF', 'INTUBADO', 'NEUMONIA', 'EDAD', 'NACIONALIDAD', 'EMBARAZO', 'HABLA_LENGUA_INDIG', 'INDIGENA', 'DIABETES', 'EPOC', 'ASMA', 'INMUSUPR', 'HIPERTENSION', 'OTRA_COM', 'CARDIOVASCULAR', 'OBESIDAD', 'RENAL_CRONICA', 'TABAQUISMO', 'OTRO_CASO', 'TOMA_MUESTRA_LAB', 'RESULTADO_LAB', 'TOMA_MUESTRA_ANTIGENO', 'RESULTADO_ANTIGENO', 'CLASIFICACION_FINAL', 'MIGRANTE', 'PAIS_NACIONALIDAD', 'PAIS_ORIGEN', 'UCI'| 1,299,091 (2024) 1,216,831 (2023) 6,451,945 (2022) 8,830,345 (2021) 3,868,396 (2020) TOTAL: 21,666,608 | | | 
 | Perú | 'FECHA_CORTE', 'DEPARTAMENTO', 'PROVINCIA', 'DISTRITO', 'METODODX',
        'EDAD', 'SEXO', 'FECHA_RESULTADO', 'UBIGEO', 'id_persona' | 4,585,360 (2020-2023) | | | 
