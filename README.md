@@ -81,7 +81,7 @@ INDICE <br>
 ### 2.2. Variables
 
 | País | Variables | N | Hombres | Mujeres | Edad 0-19 | Edad 20-40 | Edad 40-59 | Edad +60 |
-|------|---------------|----------|------|------|
+|------|---------------|----------|------|------|------|------|------|------|
 | Argentina | 'id_evento_caso', 'sexo', 'edad', 'residencia_pais_nombre', 'residencia_provincia_nombre', 'residencia_departamento_nombre', 'carga_provincia_nombre', 'fecha_inicio_sintomas', 'fecha_apertura', 'sepi_apertura', 'fecha_internacion', 'fecha_cui_intensivo', 'fallecido', 'fecha_fallecimiento', 'asistencia_respiratoria_mecanica', 'carga_provincia_id', 'origen_financiamiento', 'clasificacion', 'clasificacion_resumen', 'residencia_provincia_id', 'fecha_diagnostico', 'residencia_departamento_id', 'ultima_actualizacion' | 29,971,993 | | | | | | |
 | Brasil | | | | | | | | |
 | Colombia | 'fecha reporte web', 'ID de caso', 'Fecha de notificación', 'Código DIVIPOLA departamento', 'Nombre departamento', 'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Unidad de medida de edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', 'Código ISO del país', 'Nombre del país', 'Recuperado', 'Fecha de inicio de síntomas', 'Fecha de muerte', 'Fecha de diagnóstico', 'Fecha de recuperación', 'Tipo de recuperación', 'Pertenencia étnica', 'Nombre del grupo étnico'| 6,390,972 (2020-2021) | | | | | | |
