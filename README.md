@@ -80,15 +80,22 @@ INDICE <br>
 
 ### 2.2. Variables
 
-| País | Variables | N | N luego de limpieza | Hombres | Mujeres | Edad 0-19 | Edad 20-40 | Edad 40-59 | Edad +60 | 
+| País | Variables | N | N luego de limpieza | Hombres | Mujeres | Edad 0-19 junior | Edad 20-40 young_adult | Edad 40-59 | Edad +60 | 
 |------|---------------|----------|----------|------|------|------|------|------|------|
-| Argentina | 'id_evento_caso', 'sexo', 'edad', 'residencia_pais_nombre', 'residencia_provincia_nombre', 'residencia_departamento_nombre', 'carga_provincia_nombre', 'fecha_inicio_sintomas', 'fecha_apertura', 'sepi_apertura', 'fecha_internacion', 'fecha_cui_intensivo', 'fallecido', 'fecha_fallecimiento', 'asistencia_respiratoria_mecanica', 'carga_provincia_id', 'origen_financiamiento', 'clasificacion', 'clasificacion_resumen', 'residencia_provincia_id', 'fecha_diagnostico', 'residencia_departamento_id', 'ultima_actualizacion' | 29,971,993 | | | | | | | 
 | Colombia | 'fecha reporte web', 'ID de caso', 'Fecha de notificación', 'Código DIVIPOLA departamento', 'Nombre departamento', 'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Unidad de medida de edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', 'Código ISO del país', 'Nombre del país', 'Recuperado', 'Fecha de inicio de síntomas', 'Fecha de muerte', 'Fecha de diagnóstico', 'Fecha de recuperación', 'Tipo de recuperación', 'Pertenencia étnica', 'Nombre del grupo étnico'| 6,390,972 (2020-2021) | 5,882,932 (2020-2021) | 2733631 (2020-2021) | 3, 149,301 (2020-2021) | 640,852 (2020-2021) | 2,507,905 (2020-2021) | 1,780,560 (2020-2021) | 789,190 (2020-2021) | 164,425 (2020-2021) |
 | México | 'FECHA_ACTUALIZACION', 'ID_REGISTRO', 'ORIGEN', 'SECTOR', 'ENTIDAD_UM', 'SEXO', 'ENTIDAD_NAC', 'ENTIDAD_RES', 'MUNICIPIO_RES', 'TIPO_PACIENTE', 'FECHA_INGRESO', 'FECHA_SINTOMAS', 'FECHA_DEF', 'INTUBADO', 'NEUMONIA', 'EDAD', 'NACIONALIDAD', 'EMBARAZO', 'HABLA_LENGUA_INDIG', 'INDIGENA', 'DIABETES', 'EPOC', 'ASMA', 'INMUSUPR', 'HIPERTENSION', 'OTRA_COM', 'CARDIOVASCULAR', 'OBESIDAD', 'RENAL_CRONICA', 'TABAQUISMO', 'OTRO_CASO', 'TOMA_MUESTRA_LAB', 'RESULTADO_LAB', 'TOMA_MUESTRA_ANTIGENO', 'RESULTADO_ANTIGENO', 'CLASIFICACION_FINAL', 'MIGRANTE', 'PAIS_NACIONALIDAD', 'PAIS_ORIGEN', 'UCI'| 1,299,091 (2024) 1,216,831 (2023) 6,451,945 (2022) 8,830,345 (2021) 3,868,396 (2020) TOTAL: 21,666,608 | 3,868,396 (2020), 1,045,644 (2021), 848,165 (2022), 1,216,831 (2023), 1,299,091 (2024), TOTAL: 8,278,127| 1,866,681 (2020), 500,986 (2021), 376,297 (2022), 502,023 (2023), 536,919 (2024), TOTAL: 3,782,906 | 2,001,715 (2020), 544,658 (2021), 471,868 (2022), 714,808 (2023),  762,172 (2024), TOTAL: 4,495,221 | 274,505 (2020), 70,966 (2021), 87,719 (2022), 188,584 (2023), 207,884 (2024), TOTAL: 829,658 | 1,656,237 (2020), 454,225 (2021), 387,713 (2022), 489,550 (2023), 516,030 (2024), TOTAL: 3,503,755 | 1,367,704 (2020), 373,341 (2021), 281,199 (2022), 360,562 (2023), 381,241 (2024), TOTAL: 2,764,047| 495,169 (2020), 129,478 (2021), 77,970 (2022), 147,734 (2023), 159,596 (2024), TOTAL: 1,009,947 | 74,781 (2020), 17,634 (2021), 13,563 (2022), 30,401 (2023), 34,340 (2024), TOTAL: 170,719 |
 | Perú | 'FECHA_CORTE', 'DEPARTAMENTO', 'PROVINCIA', 'DISTRITO', 'METODODX', 'EDAD', 'SEXO', 'FECHA_RESULTADO', 'UBIGEO', 'id_persona' | 4,585,360 (2020-2023) | 4,585,360 (2020-2023)| 2,208,480 (2020-2023)| 2,376,880 (2020-2023)| 417,192 (2020-2023)| 1,953,968 (2020-2023)| 1,486,732 (2020-2023)| 620,248 (2020-2023)| 106,867 (2020-2023)|
 | Total | | 32,642,940 | 18,746,419 | 8,725,017 | 7,527,896 | 1,887,702 | 7,965,628 | 6,031,339 | 2,419,385
 
 ## 3. Resultados
+
+|  | % sin death_date | PNA_concept_id | DM_concept_id | COPD_concept_id | asthma_concept_id | immunosuppr_concept_id | HTN_concept_id | CV_concept_id | obes_concept_id | CKD_concept_id | ICU_concept_id |
+|------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------| 
+| YES | 94.53 % (2020) 96.02 (2021)| 374992 (2020) 62075 (2021) | 418275 (2020) 91296 (2021) | 40690 (2020) 6621 (2021)| 100040 (2020) 19933 (2021)| 37093 (2020) 5704 (2021)| 75288 (2020) 13487 (2021)| 60608 (2020) | 505187 (2020) | 55420 (2020)
+| NO | | 3477717 (2020) 983564 (2021) | 3437751 (2020) 983564 (2021)| 3816193 (2020)  942022 (2021)| 3757014 (2020) 1026785 (2021) | 3819530 (2020) 1013508 (2021) | 3775501 (2020) 1027749 (2021)| 3796317 (2020) 1019544 (2021) | 3352170 (2020) 1023259 (2021) | 3801661 (2020)
+| NO APLICA | | | | | | | | | | 3340218 (2020)
+| SE IGNORA | | | 12370 (2020) 12326 (2021) | 11513 (2020) 12238 (2021) | 11342 (2020) 12203 (2021)| 11773 (2020) 12191 (2021)| 17607 (2020) 13487 (2021)| 11471 (2020) | 11039 (2020) | 11315 (2020)
+| NO ESPECIFICADO | | 15687 (2020) 5 (2021)| | | | | | | | | | 11309 (2020)
 
 ## 4. Conclusiones
 
