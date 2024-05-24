@@ -27,7 +27,7 @@ Table of Contents <br>
 [1. Introduction](#introduction)
 [2. Materials and Methods](#materials_methods)
    [2.1. Databases](#Databases)
-   [2.2. Variables](#variables)
+   [2.2. Variables](#Variables)
    [2.3. Unification](#unification)
 [3. Results](#results)
 [4. Reflections](#reflections)
