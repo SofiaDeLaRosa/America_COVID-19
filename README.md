@@ -124,7 +124,7 @@ We classified age into 5 groups:
 
 To merge the databases, we used the 'concat' function from pandas, and by using the 'FINAL_CLASSIFICATION' column, we only retained confirmed COVID-19 cases from Mexico, as the records from Peru and Colombia represented positive COVID-19 cases.
 
-## 4. Results
+## 3. Results
 
 An important variable we considered was the death date, to understand what percentage of people with COVID-19 did not die. Only Mexico and Colombia had it, as Peru had a different dataset exclusively for deceased individuals due to COVID-19.
 
@@ -148,10 +148,10 @@ The created dashboard shows the distribution of positive COVID-19 cases based on
     <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/covid.PNG" alt="graficas">
 </p>
 
-## 5. Reflections
+## 4. Reflections
 Reasons why some countries lack data could be: limited technological infrastructure, lack of financial resources, lack of priority, and/or lack of transparency.
 
-## 6. Recommendations
+## 5. Recommendations
 * Invest in technology
 * Adopt appropriate standards and formats
 * Ensure data quality, availability, and updates on web portals
@@ -161,10 +161,10 @@ Reasons why some countries lack data could be: limited technological infrastruct
 * Maintain a history and version control of changes made
 * Promote collaboration with institutions
 
-## 7. Conclusions
+## 6. Conclusions
 COVID-19 is still present, making it crucial to maintain its monitoring. To achieve this, countries should have the appropriate technology, be transparent, maintain and update servers, meet quality criteria and standards like OMOP, thus facilitating the search, analysis, and visualization of data globally. In this way, the data will serve not only as a reliable and up-to-date source of information for the general public but also enable governments, businesses, and health institutions to make better decisions and formulate more effective public health policies for managing COVID-19.
 
-## 5. Bibliography
+## 7. Bibliography
 Ministerio de Salud Argentina. (s.f.). Ministerio de Salud Argentina. Obtained from http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina/archivo/fd657d02-a33a-498b-a91b-2ef1a68b8d16
 
 Observational Health Data Sciences and Informatics. (2024). Observational Health Data Sciences and Informatics. Obtenido de https://www.ohdsi.org/data-standardization/
