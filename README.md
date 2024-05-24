@@ -4,7 +4,7 @@
     <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/escudos.png" alt="escudos">
 </p>
 
-<h3 align="center"> Universidad Nacional Autónoma de México </h3> 
+<h3 align="center"> Universidad Nacional Autónoma de México (National Autonomous University of Mexico | UNAM) </h3> 
 <h3 align="center">Escuela Nacional de Estudios Superiores Unidad Morelia </h3> 
 
 <h3 align="center"> Licenciatura en Tecnologías para la Información en Ciencias </h3> 
@@ -164,11 +164,11 @@ Reasons why some countries lack data could be: limited technological infrastruct
 COVID-19 is still present, making it crucial to maintain its monitoring. To achieve this, countries should have the appropriate technology, be transparent, maintain and update servers, meet quality criteria and standards like OMOP, thus facilitating the search, analysis, and visualization of data globally. In this way, the data will serve not only as a reliable and up-to-date source of information for the general public but also enable governments, businesses, and health institutions to make better decisions and formulate more effective public health policies for managing COVID-19.
 
 ## 5. Bibliography
-Ministerio de Salud Argentina. (s.f.). Ministerio de Salud Argentina. Obtenido de http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina/archivo/fd657d02-a33a-498b-a91b-2ef1a68b8d16
+Ministerio de Salud Argentina. (s.f.). Ministerio de Salud Argentina. Obtained from http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina/archivo/fd657d02-a33a-498b-a91b-2ef1a68b8d16
 
 Observational Health Data Sciences and Informatics. (2024). Observational Health Data Sciences and Informatics. Obtenido de https://www.ohdsi.org/data-standardization/
-Plataforma Nacional de Datos Abiertos. (s.f.). Obtenido de https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
+Plataforma Nacional de Datos Abiertos. (s.f.). Obtained from https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
 
-Salud, S. d. (2024). Gobierno de México. Obtenido de https://www.gob.mx/salud/documentos/datos-abiertos-152127
+Salud, S. d. (2024). Gobierno de México. Obtained from https://www.gob.mx/salud/documentos/datos-abiertos-152127
 
 
