@@ -143,6 +143,7 @@ As we can see in the previous table, there were generally more positive COVID-19
 
 The created dashboard shows the distribution of positive COVID-19 cases based on age groups, as well as their proportion according to sex.
 
+
 <p align="center">
     <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/covid.PNG" alt="graficas">
 </p>
