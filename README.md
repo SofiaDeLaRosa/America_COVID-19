@@ -35,11 +35,21 @@ Table of Contents <br>
 [6. Conclusions](#conclusions)
 [7. Bibliography](#bibliography)
 
-## 1. introduction
+## 1. Introduction
+The COVID-19 pandemic has had a profound and unprecedented impact on public health, economies, and societies worldwide, revealing various challenges and responses in managing the health crisis. In this context, data analysis is crucial for understanding the evolution of the pandemic and its effects, even five years later, when interest in its tracking has waned.
 
-## 2. Materiales y Métodos
+## 2. Materials and Methods
+For data cleaning, integration, and unification, pandas was used. For visualization, Power BI was employed.
 
 ### 2.1. Bases de Datos
+COVID-19 data were sought from 37 countries in the Americas from health ministries, health-related centers and departments, open data platforms, and statistics platforms.
+
+The decision was made to work with Colombia, Mexico, and Peru, as the other countries had:
+
+* Data not available
+* Non-individual data in PDF format
+Data that are no longer available
+Servers with unavailable data
 
 | # | País | Fuente | Link Oficial | Comentario |
 |--|------|------------|------------|------------|
