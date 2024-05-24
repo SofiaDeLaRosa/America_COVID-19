@@ -98,7 +98,11 @@ Mexico had 40 variables: 'FECHA_ACTUALIZACION' (update date), 'ID_REGISTRO' (rec
 
 On the other hand, Peru had only 10 variables: 'FECHA_CORTE' (update date), 'DEPARTAMENTO' (department), 'PROVINCIA' (province), 'DISTRITO' (district), 'METODODX' (method), 'EDAD' (age), 'SEXO' (sex), 'FECHA_RESULTADO' (result date), 'UBIGEO' (UBIGEO), 'id_persona' (person id).
 
-| País | Variables | N luego de limpieza | Hombres | Mujeres | Edad 0-19 (junior) | Edad 20-40 (young_adult) | Edad 40-59 (middle_aged_adult) | Edad 60-79 (older_adult)| Edad 80+ (elderly) | 
+
+In Colombia, there were null values in: symptom onset date, death date, and diagnosis date, with no repeated records (not even just the IDs). In Mexico, only 0.28% of the IDs were repeated. Since it was a low percentage, it was decided to delete them. In Peru, there were null values in all columns (ID, AGE, and result date) except for cut date, 95.23% of the records and 99.73% of the IDs were repeated. However, these records were not deleted since it was concluded that many people could have the same data because there were only 10 columns, and several are very general.
+
+
+| Country | Variables | N after cleaning | Men | Women | Age 0-19 (junior) | Age 20-40 (young_adult) | Age 40-59 (middle_aged_adult) | Age 60-79 (older_adult)| Age 80+ (elderly) | 
 |------|---------------|----------|------|------|------|------|------|------|------|
 | Colombia | 6,390,972 (2020-2021) | 5,882,932 (2020-2021) | 2,733,631 (2020-2021) | 3, 149,301 (2020-2021) | 640,852 (2020-2021) | 2,507,905 (2020-2021) | 1,780,560 (2020-2021) | 789,190 (2020-2021) | 164,425 (2020-2021) |
 | México | 8,281,058 (2020-2024) | 3,320,238 (2020-2024) | 1,547,970 (2020-2024) | 1,772,268 (2020-2024) | 198,312 (2020-2024) | 1,354,517 (2020-2024) | 1,211,793 (2020-2024) | 477,462 (2020-2021) | 78,154 (2020-2024) |
