@@ -109,9 +109,66 @@ In Colombia, there were null values in: symptom onset date, death date, and diag
 | Perú | 4,585,360 (2020-2023) | 4,585,360 (2020-2023)| 2,208,480 (2020-2023)| 2,376,880 (2020-2023)| 417,192 (2020-2023)| 1,953,968 (2020-2023)| 1,486,732 (2020-2023)| 620,248 (2020-2023)| 106,867 (2020-2023)|
 | Total | | 19,257,390 | 13,788,530 | 6,490,081 | 7,298,449 | 1,256,356 | 5,816,390 | 4,479,085 | 1,886,900 | 349,446 |
 
-## 3. Resultados
+## 2.3 Unification
+We merged the databases based on the age and sex columns, as these were the common attributes across all datasets. For the sex attribute, we transformed the data using the codes from The Observational Medical Outcomes Partnership (OMOP):
+* f, Female → '8532'
+* M, Male → '8507'
+  
+We classified age into 5 groups:
+* [0-19] → 'junior'
+* [20-39] → 'young_adult'
+* [40-59] → 'middle_aged_adult'
+* [60-79] → 'older'
+* 80+ → 'elderly'
 
-## 4. Conclusiones
+To merge the databases, we used the 'concat' function from pandas, and by using the 'FINAL_CLASSIFICATION' column, we only retained confirmed COVID-19 cases from Mexico, as the records from Peru and Colombia represented positive COVID-19 cases.
 
-## 5. Bibliografía
+## 4. Results
+
+An important variable we considered was the death date, to understand what percentage of people with COVID-19 did not die. Only Mexico and Colombia had it, as Peru had a different dataset exclusively for deceased individuals due to COVID-19.
+
+% WITHOUT DEATH DATE IN COLOMBIA:
+* 97.11% (2020 - 2021)
+* 
+% WITHOUT DEATH DATE IN MEXICO:
+* 94.53% (2020)
+* 96.02% (2021)
+* 98.86% (2022)
+* 99.24% (2023)
+* 99.08% (2024)
+
+The percentage of null values for death_date was always quite high and increased over time.
+
+As we can see in the previous table, there were generally more positive COVID-19 cases in Colombia compared to Mexico and Peru, considering the period from 2020 to 2021. Additionally, there were more positive COVID-19 cases among women in all countries. Furthermore, young adults were the most affected, while older adults were the least affected.
+
+The created dashboard shows the distribution of positive COVID-19 cases based on age groups, as well as their proportion according to sex.
+
+<p align="center">
+    <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/covid.PNG" alt="graficas">
+</p>
+
+## 5. Reflections
+Reasons why some countries lack data could be: limited technological infrastructure, lack of financial resources, lack of priority, and/or lack of transparency.
+
+## 6. Recommendations
+* Invest in technology
+* Adopt appropriate standards and formats
+* Ensure data quality, availability, and updates on web portals
+* Create real-time interactive dashboards
+* Educate on the importance of COVID-19 monitoring
+* Document data collection, management, and dissemination processes
+* Maintain a history and version control of changes made
+* Promote collaboration with institutions
+
+## 7. Conclusions
+COVID-19 is still present, making it crucial to maintain its monitoring. To achieve this, countries should have the appropriate technology, be transparent, maintain and update servers, meet quality criteria and standards like OMOP, thus facilitating the search, analysis, and visualization of data globally. In this way, the data will serve not only as a reliable and up-to-date source of information for the general public but also enable governments, businesses, and health institutions to make better decisions and formulate more effective public health policies for managing COVID-19.
+
+## 5. Bibliography
+Ministerio de Salud Argentina. (s.f.). Ministerio de Salud Argentina. Obtenido de http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina/archivo/fd657d02-a33a-498b-a91b-2ef1a68b8d16
+
+Observational Health Data Sciences and Informatics. (2024). Observational Health Data Sciences and Informatics. Obtenido de https://www.ohdsi.org/data-standardization/
+Plataforma Nacional de Datos Abiertos. (s.f.). Obtenido de https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
+
+Salud, S. d. (2024). Gobierno de México. Obtenido de https://www.gob.mx/salud/documentos/datos-abiertos-152127
+
 
