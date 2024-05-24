@@ -141,8 +141,7 @@ The percentage of null values for death_date was always quite high and increased
 
 As we can see in the previous table, there were generally more positive COVID-19 cases in Colombia compared to Mexico and Peru, considering the period from 2020 to 2021. Additionally, there were more positive COVID-19 cases among women in all countries. Furthermore, young adults were the most affected, while older adults were the least affected.
 
-The created dashboard shows the distribution of positive COVID-19 cases based on age groups, as well as their proportion according to sex. <br>
-
+The created dashboard shows the distribution of positive COVID-19 cases based on age groups, as well as their proportion according to sex. 
 
 <p align="center">
     <img src="https://github.com/SofiaDeLaRosa/LATAM_COVID-19/blob/main/covid.PNG" alt="graficas">
