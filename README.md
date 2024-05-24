@@ -15,7 +15,7 @@
 <h4 align="center"> Student: Sofía García De La Rosa </h4> 
 <h4 align="center"> No. de student account: 421099803 </h4>
 
-<h4 align="center"> Teacher: Dr. Arturo López Pineda </h4> 
+<h4 align="center"> Professor: Dr. Arturo López Pineda </h4> 
 
 <h4 align="center"> Date: May 23, 2024 </h4> 
 
