@@ -20,6 +20,7 @@
 <h4 align="center"> Date: May 23, 2024 </h4> 
 
 ## Summary
+LATAM COVID-19 is a project focused on the collection, cleaning, analysis, integration, and visualization of COVID-19 data from some Latin American countries.
 
 ## Table of Contents
 Summary <br>
