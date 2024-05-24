@@ -10,29 +10,32 @@
 <h3 align="center"> Licenciatura en Tecnologías para la Información en Ciencias </h3> 
 <h3 align="center"> Repositorios Digitales (2024-2) </h3> 
 
-<h3 align="center"> Proyecto LATAM COVID-19 </h3> 
+<h3 align="center"> LATAM COVID-19 Project </h3> 
 
-<h4 align="center"> Alumna: Sofía García De La Rosa </h4> 
+<h4 align="center"> Student: Sofía García De La Rosa </h4> 
 <h4 align="center"> No. de cuenta: 421099803 </h4>
 
-<h4 align="center"> Profesor: Dr. Arturo López Pineda </h4> 
+<h4 align="center"> Teacher: Dr. Arturo López Pineda </h4> 
 
-<h4 align="center"> Fecha:23 de Mayo del 2024 </h4> 
+<h4 align="center"> Date:23 de Mayo del 2024 </h4> 
 
-## RESUMEN
+## Summary
 
-## INDICE
-RESUMEN <br>
-INDICE <br>
-[1. Introducción](#introducción)
-[2. Materiales y Métodos](#materiales_métodos)
-   [2.1. Bases de Datos](#basesdedatos)
+## Table of Contents
+Summary <br>
+Table of Contents <br>
+[1. Introduction](#introduction)
+[2. Materials and Methods](#materials_methods)
+   [2.1. Databases](#Databases)
    [2.2. Variables](#variables)
-[3. Resultados](#resultados)
-[4. Conclusiones](#conclusiones)
-[5. Bibliografía](#bibliografía)
+   [2.3. Unification](#unification)
+[3. Results](#results)
+[4. Reflections](#reflections)
+[5. Recommendations](#recommendations)
+[6. Conclusions](#conclusions)
+[7. Bibliography](#bibliography)
 
-## 1. Introducción
+## 1. introduction
 
 ## 2. Materiales y Métodos
 
