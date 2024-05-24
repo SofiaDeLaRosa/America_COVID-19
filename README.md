@@ -24,16 +24,16 @@
 ## Table of Contents
 Summary <br>
 Table of Contents <br>
-[1. Introduction](#introduction)
-[2. Materials and Methods](#materials_methods)
-   [2.1. Databases](#Databases)
-   [2.2. Variables](#Variables)
-   [2.3. Unification](#unification)
-[3. Results](#results)
-[4. Reflections](#reflections)
-[5. Recommendations](#recommendations)
-[6. Conclusions](#conclusions)
-[7. Bibliography](#bibliography)
+1. Introduction
+2. Materials and Methods
+    2.1. Databases
+    2.2. Variables
+    2.3. Unification
+3. Results
+4. Reflections
+5. Recommendations
+6. Conclusions
+7. Bibliography
 
 ## 1. Introduction
 The COVID-19 pandemic has had a profound and unprecedented impact on public health, economies, and societies worldwide, revealing various challenges and responses in managing the health crisis. In this context, data analysis is crucial for understanding the evolution of the pandemic and its effects, even five years later, when interest in its tracking has waned.
@@ -99,7 +99,7 @@ Mexico had 40 variables: 'FECHA_ACTUALIZACION' (update date), 'ID_REGISTRO' (rec
 On the other hand, Peru had only 10 variables: 'FECHA_CORTE' (update date), 'DEPARTAMENTO' (department), 'PROVINCIA' (province), 'DISTRITO' (district), 'METODODX' (method), 'EDAD' (age), 'SEXO' (sex), 'FECHA_RESULTADO' (result date), 'UBIGEO' (UBIGEO), 'id_persona' (person id).
 
 
-In Colombia, there were null values in: symptom onset date, death date, and diagnosis date, with no repeated records (not even just the IDs). In Mexico, only 0.28% of the IDs were repeated. Since it was a low percentage, it was decided to delete them. In Peru, there were null values in all columns (ID, AGE, and result date) except for cut date, 95.23% of the records and 99.73% of the IDs were repeated. However, these records were not deleted since it was concluded that many people could have the same data because there were only 10 columns, and several are very general.
+In Colombia, there were null values in: symptom onset date, death date, and diagnosis date, with no repeated records (not even just the IDs). In Mexico, only 0.28% of the IDs were repeated. Since it was a low percentage, it was decided to delete them. In Peru, there were null values in columns ID, AGE, and result date; 95.23% of the records and 99.73% of the IDs were repeated. However, these records were not deleted since it was concluded that many people could have the same data because there were only 10 columns, and several are very general.
 
 
 | Country | Variables | N after cleaning | Men | Women | Age 0-19 (junior) | Age 20-40 (young_adult) | Age 40-59 (middle_aged_adult) | Age 60-79 (older_adult)| Age 80+ (elderly) | 
