@@ -41,15 +41,15 @@ The COVID-19 pandemic has had a profound and unprecedented impact on public heal
 ## 2. Materials and Methods
 For data cleaning, integration, and unification, pandas was used. For visualization, Power BI was employed.
 
-### 2.1. Bases de Datos
+### 2.1. Databases
 COVID-19 data were sought from 37 countries in the Americas from health ministries, health-related centers and departments, open data platforms, and statistics platforms.
 
 The decision was made to work with Colombia, Mexico, and Peru, as the other countries had:
 
 * Data not available
 * Non-individual data in PDF format
-Data that are no longer available
-Servers with unavailable data
+* Data that are no longer available
+* Servers with unavailable data
 
 | # | País | Fuente | Link Oficial | Comentario |
 |--|------|------------|------------|------------|
@@ -92,6 +92,9 @@ Servers with unavailable data
 | 37 | Venezuela | | https://mppre.gob.ve/coronavirus/ | Información no disponible en formato descargable |
 
 ### 2.2. Variables
+Colombia had 23 variables: 'fecha reporte web' (web report date), 'ID de caso' (case ID), 'Fecha de notificación' (notification date), 'Código DIVIPOLA departamento' (DIVIPOLA department code), 'Nombre departamento' (department name), 'Código DIVIPOLA municipio' (DIVIPOLA municipality code), 'Nombre municipio' (municipality name), 'Edad' (age), 'Unidad de medida de edad' (age unit), 'Sexo' (sex), 'Tipo de contagio' (type of contagion), 'Ubicación del caso' (case location), 'Estado' (status), 'Código ISO del país' (ISO country code), 'Nombre del país' (country name), 'Recuperado' (recovered), 'Fecha de inicio de síntomas' (symptoms onset date), 'Fecha de muerte' (death date), 'Fecha de diagnóstico' (diagnosis date), 'Fecha de recuperación' (recovery date), 'Tipo de recuperación' (type of recovery), 'Pertenencia étnica' (ethnic affiliation), 'Nombre del grupo étnico' (ethnic group name).
+
+Mexico had 40 variables: 'FECHA_ACTUALIZACION' (update date), 'ID_REGISTRO' (record ID), 'ORIGEN' (origin), 'SECTOR' (sector), 'ENTIDAD_UM' (UM entity), 'SEXO' (sex), 'ENTIDAD_NAC' (birth entity), 'ENTIDAD_RES' (residence entity), 'MUNICIPIO_RES' (residence municipality), 'TIPO_PACIENTE' (patient type), 'FECHA_INGRESO' (admission date), 'FECHA_SINTOMAS' (symptoms date), 'FECHA_DEF' (death date), 'INTUBADO' (intubated), 'NEUMONIA' (pneumonia), 'EDAD' (age), 'NACIONALIDAD' (nationality), 'EMBARAZO' (pregnancy), 'HABLA_LENGUA_INDIG' (speaks indigenous language), 'INDIGENA' (indigenous), 'DIABETES' (diabetes), 'EPOC' (COPD), 'ASMA' (asthma), 'INMUSUPR' (immunosuppressed), 'HIPERTENSION' (hypertension), 'OTRA_COM' (other conditions), 'CARDIOVASCULAR' (cardiovascular), 'OBESIDAD' (obesity), 'RENAL_CRONICA' (chronic kidney disease), 'TABAQUISMO' (smoking), 'OTRO_CASO' (another case), 'TOMA_MUESTRA_LAB' (lab sample taken), 'RESULTADO_LAB' (lab result), 'TOMA_MUESTRA_ANTIGENO' (antigen sample taken),
 
 | País | Variables | N | N luego de limpieza | Hombres | Mujeres | Edad 0-19 (junior) | Edad 20-40 (young_adult) | Edad 40-59 (middle_aged_adult) | Edad 60-79 (older_adult)| Edad 80+ (elderly) | 
 |------|---------------|----------|----------|------|------|------|------|------|------|------|
